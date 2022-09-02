@@ -8,6 +8,7 @@ Semi-Senior Software and Web Developer With 3+ Years of Experience. My fields of
 
 * 🌍  I'm based in Dominican Republic
 * ✉️  You can contact me at [onishelltib@gmail.com](mailto:onishelltib@gmail.com)
+* 🚀  I'm currently working on [Genshin Artifact Optimizer](http://6312210238687b1bfc9b286e--glittering-bonbon-aed81d.netlify.app/#/)
 * 🧠  I'm learning Vuejs
 * 🤝  I'm open to collaborating on Inetersting ML and Web Projects
 * ⚡  I like cats 🐱 ... But dont tell my dog
