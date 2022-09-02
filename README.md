@@ -7,17 +7,12 @@ Web Developer & Software Engineer
 Semi-Senior Software and Web Developer With 3+ Years of Experience. My fields of expertise are: Backend, DevOps, Artificial Intelligence, Data Management & Data Science, Desktop Programming, Cloud Computing.
 
 * 🌍  I'm based in Dominican Republic
+* 🖥️  See my portfolio at [Personal Portfolio](http://personal-portfolio-roan-eight.vercel.app/)
 * ✉️  You can contact me at [onishelltib@gmail.com](mailto:onishelltib@gmail.com)
 * 🚀  I'm currently working on [Genshin Artifact Optimizer](http://6312210238687b1bfc9b286e--glittering-bonbon-aed81d.netlify.app/#/)
 * 🧠  I'm learning Vuejs
 * 🤝  I'm open to collaborating on Inetersting ML and Web Projects
 * ⚡  I like cats 🐱 ... But dont tell my dog
-
-<a href="https://www.twitter.com/OnishellT" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/OnishellT?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/OnishellT" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/OnishellT?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/bunnyhunter031" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/bunnyhunter031?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
 ### Skills
 
@@ -64,9 +59,3 @@ src="https://img.shields.io/twitch/status/bunnyhunter031?logo=twitchsx&style=for
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/OnishellT"><img src="https://github-readme-stats.vercel.app/api?username=OnishellT&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="OnishellT's GitHub stats" /></a>
-
-<a href="http://www.github.com/OnishellT"><img src="https://github-readme-streak-stats.herokuapp.com/?user=OnishellT&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/OnishellT"><img src="https://activity-graph.herokuapp.com/graph?username=OnishellT&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/OnishellT" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnishellT&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
