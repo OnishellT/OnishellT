@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer & Software Engineer
 ---------------------------------
 
-Semi-Senior Software and Web Developer With 3+ Years of Experience. My fields of expertise are: Backend, DevOps, Artificial Intelligence, Data Management & Data Science, Desktop Programming, Cloud Computing.
+Semi-Senior Software and Web Developer With 5+ Years of Experience. My fields of expertise are: Backend, DevOps, Artificial Intelligence, Data Management & Data Science, Desktop Programming, Cloud Computing.
 
 * 🌍  I'm based in Dominican Republic
 * 🖥️  See my portfolio at [Personal Portfolio](http://personal-portfolio-beryl-phi.vercel.app/)
