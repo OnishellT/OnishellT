@@ -1,7 +1,7 @@
 Hi !
 =========================================================================================================================================
 
-Web Developer & Software Engineer
+Senior Software Engineer 
 ---------------------------------
 
 Semi-Senior Software and Web Developer With 5+ Years of Experience. My fields of expertise are: Backend, DevOps, Artificial Intelligence, Data Management & Data Science, Desktop Programming, Cloud Computing.
@@ -9,10 +9,9 @@ Semi-Senior Software and Web Developer With 5+ Years of Experience. My fields of
 * 🌍  I'm based in Dominican Republic
 * 🖥️  See my portfolio at [Personal Portfolio](http://personal-portfolio-beryl-phi.vercel.app/)
 * ✉️  You can contact me at [onishelltib@gmail.com](mailto:onishelltib@gmail.com)
-* 🚀  I'm currently working on [Genshin Artifact Optimizer](http://6312210238687b1bfc9b286e--glittering-bonbon-aed81d.netlify.app/#/)
-* 🧠  I'm learning Svelte & SvelteKit
+* 🧠  I'm learning Go and HTMX
 * 🤝  I'm open to collaborating on Inetersting ML and Web Projects
-* ⚡  I like cats 🐱 ... But dont tell my dog
+* ⚡  I like cats 🐱 ... But dont tell my dogs
 
 ### Skills
 
