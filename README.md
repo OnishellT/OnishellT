@@ -4,12 +4,12 @@ Hi !
 Senior Software Engineer 
 ---------------------------------
 
-Semi-Senior Software and Web Developer With 5+ Years of Experience. My fields of expertise are: Backend, DevOps, Artificial Intelligence, Data Management & Data Science, Desktop Programming, Cloud Computing.
+Senior Software and Web Developer With 8+ Years of Experience. My fields of expertise are: Backend, DevOps, Artificial Intelligence, Data Management & Data Science, Desktop Programming, Cloud Computing.
 
 * 🌍  I'm based in Dominican Republic
 * 🖥️  See my portfolio at [Personal Portfolio](http://personal-portfolio-beryl-phi.vercel.app/)
 * ✉️  You can contact me at [onishelltib@gmail.com](mailto:onishelltib@gmail.com)
-* 🧠  I'm learning Go and HTMX
+* 🧠  I'm learning CUDA and Pytorch
 * 🤝  I'm open to collaborating on Inetersting ML and Web Projects
 * ⚡  I like cats 🐱 ... But dont tell my dogs
 
